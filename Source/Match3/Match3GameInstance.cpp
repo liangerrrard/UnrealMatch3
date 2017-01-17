@@ -117,4 +117,3 @@ void UMatch3GameInstance::OnViewportResize_Internal(FViewport* Viewport, uint32 
 {
 	OnViewportResize();
 }
-//test
