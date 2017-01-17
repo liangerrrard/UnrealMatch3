@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.12",
+	"Category": "Samples",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Match3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Desktop",
+		"IOS"
+	],
+	"EpicSampleNameHash": "2622819489"
+}
